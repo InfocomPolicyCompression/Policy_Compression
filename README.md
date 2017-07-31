@@ -4,7 +4,7 @@ This repository contains code to reproduce simulation in the INFOCOM 2018 submis
 
 ## Run and compile: 
 
-`cd src/` then `javac Runner.java` and then `java Runner`. It will simualate all algorithms on 100 instances.
+`cd src/` then `javac Runner.java` and then `java Runner`. It will simulates all algorithms on 100 instances.
 
 ## Calculate statistics:
 
