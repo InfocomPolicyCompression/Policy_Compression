@@ -1,10 +1,12 @@
 # Efficient Representations of Multiple Service Policies
-
-This repository contains code to reproduce simulation in the INFOCOM 2018 submission "Efficient Representations of Multiple Service Policies".
+This repository contains the code to reproduce the experimental evaluation in the INFOCOM 2018 submission "Efficient Representations of Multiple Service Policies".
 
 ## Run and compile: 
 
 `cd src/` then `javac Runner.java` and then `java Runner`. It simulates all algorithms on 100 random instances.
+
+## Parameters
+`Params.java` - file with parameters. Change it to obtain different experiments.
 
 ## Calculate statistics:
 
