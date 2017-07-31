@@ -8,4 +8,4 @@ This repository contains code to reproduce simulation in the INFOCOM 2018 submis
 
 ## Calculate statistics:
 
-`javac StatCalculator.java` and then `java StatCalculator < ans.txt`. It will calculate average ratio of overhead against lower bound,  where `ans.txt` is file produced by runner.
+`javac StatCalculator.java` and then `java StatCalculator < ans.txt`. It will calculate average ratio of overhead against lower bound,  where `ans.txt` is file produced by `Runner`.
