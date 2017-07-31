@@ -1,4 +1,4 @@
-**Efficient Representations of Multiple Service Policies
+#Efficient Representations of Multiple Service Policies
 
 This repository contains code to reproduce simulation in the INFOCOM 2018 submission "Efficient Representations of Multiple Service Policies".
 
